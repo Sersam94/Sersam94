@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero en Mecatrónica**
 
-:camara: **Amante de la fotografía**
+🖼️: **Amante de la fotografía**
 
 :mountain: **Fan del Hike**
 

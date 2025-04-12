@@ -13,11 +13,7 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Sersam94/miPrimerRepo](https://github.com/Sersam94/miPrimerRepo)<br>
-2. ✌️ Released [v0.1.0](https://github.com/Sersam94/tercerRepo/releases/tag/v0.1.0) in [Sersam94/tercerRepo](https://github.com/Sersam94/tercerRepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [Sersam94/tercerRepo](https://github.com/Sersam94/tercerRepo)<br>
-4. 📔 Created new repository [Sersam94/tercerRepo](https://github.com/Sersam94/tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 11th, 2025, 1:14:36 PM
+Last Updated: Saturday, April 12th, 2025, 1:35:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
